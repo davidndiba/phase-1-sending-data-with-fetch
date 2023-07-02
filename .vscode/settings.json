@@ -1,0 +1,4 @@
+"livescore.settings.ignoreFiles"{
+    ".vscode/**"
+    "**/db.json"
+}
